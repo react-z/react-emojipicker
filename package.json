@@ -1,0 +1,56 @@
+{
+  "name": "react-tab-view",
+  "version": "1.0.0",
+  "description": "a simple tab component",
+  "main": "lib/Picker.js",
+  "author": "Steven Iseki <stevenisekimartin@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StevenIseki/react-tab-view.git"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^15.1.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.9.0",
+    "babel-core": "^6.9.1",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.6.0",
+    "babel-preset-react": "^6.5.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "babel-register": "^6.9.0",
+    "enzyme": "^2.3.0",
+    "expect": "^1.20.1",
+    "express": "^4.13.4",
+    "jsdom": "^9.2.1",
+    "json-loader": "^0.5.4",
+    "react": "^15.1.0",
+    "react-addons-test-utils": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "tape": "^4.5.1",
+    "webpack": "^1.13.1"
+  },
+  "scripts": {
+    "build": "babel src --out-dir lib",
+    "example": "webpack --config ./example/webpack.config.js",
+    "serve": "node ./example/server.js",
+    "start": "npm run example && npm run serve",
+    "test": "tape test/index.js"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "tabs",
+    "tab view",
+    "react tabs",
+    "react-tabs",
+    "react tab",
+    "tab",
+    "tab control"
+  ],
+  "dependencies": {
+    "get-emoji": "^2.0.0",
+    "styled-components": "^1.4.3"
+  }
+}
