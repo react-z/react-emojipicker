@@ -1,18 +1,16 @@
-import Picker from '../src/Picker'
+import Picker from '../lib/Picker'
 import ReactDOM from 'react-dom'
 import React, { Component, PropTypes } from 'react'
 
 class TestComponent extends Component {
-
-  constructor(props) {
-    super(props)
-    this.state = { value: 'reactjs'}
+  logEmoji (emoji) {
+    console.log(emoji)
   }
 
   render () {
     return (
       <div>
-        <Picker />
+        <Picker onEmojiSelected={this.logEmoji.bind(this)} />
       </div>
     )
   }

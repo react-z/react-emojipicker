@@ -1,38 +1,35 @@
-# react-tab-view
+# react-emojipicker
 
-[![npm version](https://badge.fury.io/js/react-tab-view.svg)](https://badge.fury.io/js/react-tab-view)
+[![npm version](https://badge.fury.io/js/react-search.svg)](https://badge.fury.io/js/react-emojipicker)
 
-react-tab-view is a simple tabs component using react.js.
+![](https://raw.githubusercontent.com/StevenIseki/react-search/master/example/screenshot.gif)
+
+react-emojipicker is a simple emoji picker component
+
+**TODO:**
+Note that currently this emoji picker only sends the unicode emoji character back at this stage. Still in progress is passing back the title and possibly a png image in the correctly supported emoji format.
 
 ## Install
 
-`npm install react-tab-view --save`
+`npm install react-emojipicker --save`
 
-## Usage
+## Usage basic
+
 
 ```jsx
-
-import { Tabs, Tab } from 'react-tab-view'
+import Picker from 'react-emojipicker'
 import ReactDOM from 'react-dom'
 import React, { Component, PropTypes } from 'react'
 
 class TestComponent extends Component {
+  logEmoji (emoji) {
+    console.log(emoji)
+  }
 
   render () {
-
-    const headers = ['heading 1', 'heading 2'];
-
     return (
       <div>
-        <Tabs headers={headers}>
-          <Tab>
-            <div><p>This is the first tab</p></div>
-            <div><p>with some content</p></div>
-          </Tab>
-          <Tab>
-            <p>This is the second tab's content</p>
-          </Tab>
-        </Tabs>
+        <Picker onEmojiSelected={this.logEmoji.bind(this)} />
       </div>
     )
   }
@@ -42,24 +39,20 @@ ReactDOM.render(
   <TestComponent />,
   document.getElementById('root')
 )
-
 ```
 
-## Versions
+## Props
 
-#### `1.0.1` uses React `^0.13.0`
-
-#### `1.0.3` uses React `^0.14.0`
-
-#### `1.0.4` uses React `^0.15.1`
+#### `onEmojiSelected` (required)
+Handler returns the emoji character selected from the emoji picker.
 
 ## Styles
-
-react-tab-view can be used with your own custom styles. A minimal [tabs.css](https://github.com/StevenIseki/react-tab-view/blob/master/example/public/tabs.css) style sheet is included as a guide.
+Uses styled-components 💅 for the base styling.
 
 ## Development
 
     npm install
+    npm run build
     npm test
     npm start
 

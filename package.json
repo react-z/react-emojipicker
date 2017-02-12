@@ -1,12 +1,12 @@
 {
-  "name": "react-tab-view",
+  "name": "react-emojipicker",
   "version": "1.0.0",
-  "description": "a simple tab component",
+  "description": "A react emoji picker",
   "main": "lib/Picker.js",
   "author": "Steven Iseki <stevenisekimartin@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/StevenIseki/react-tab-view.git"
+    "url": "https://github.com/StevenIseki/react-emojipicker.git"
   },
   "license": "MIT",
   "peerDependencies": {
@@ -41,16 +41,14 @@
   "keywords": [
     "react",
     "react-component",
-    "tabs",
-    "tab view",
-    "react tabs",
-    "react-tabs",
-    "react tab",
-    "tab",
-    "tab control"
+    "emojipicker",
+    "emoji-picker",
+    "react emoji picker",
+    "react-emoji-picker",
+    "react-emoji",
+    "emoji"
   ],
   "dependencies": {
-    "get-emoji": "^2.0.0",
     "styled-components": "^1.4.3"
   }
 }

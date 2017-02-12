@@ -1,2 +1,2 @@
 require('babel-register');
-require('./tab.spec.js');
+require('./emoji.spec.js');
