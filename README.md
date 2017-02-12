@@ -1,8 +1,8 @@
 # react-emojipicker
 
-[![npm version](https://badge.fury.io/js/react-search.svg)](https://badge.fury.io/js/react-emojipicker)
+[![npm version](https://badge.fury.io/js/react-emojipicker.svg)](https://badge.fury.io/js/react-emojipicker)
 
-![](https://raw.githubusercontent.com/StevenIseki/react-search/master/example/screenshot.gif)
+![](https://raw.githubusercontent.com/StevenIseki/react-emojipicker/master/example/screenshot.gif)
 
 react-emojipicker is a simple emoji picker component
 
