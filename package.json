@@ -1,6 +1,6 @@
 {
   "name": "react-emojipicker",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A react emoji picker",
   "main": "lib/Picker.js",
   "author": "Steven Iseki <stevenisekimartin@gmail.com>",
