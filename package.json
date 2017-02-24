@@ -4,6 +4,13 @@
   "description": "A react emoji picker",
   "main": "lib/Picker.js",
   "author": "Steven Iseki <stevenisekimartin@gmail.com>",
+  "scripts": {
+    "build": "babel src --out-dir lib",
+    "example": "webpack --config ./example/webpack.config.js",
+    "serve": "node ./example/server.js",
+    "start": "npm run example && npm run serve",
+    "test": "tape test/index.js"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/StevenIseki/react-emojipicker.git"
@@ -11,6 +18,10 @@
   "license": "MIT",
   "peerDependencies": {
     "react": "^15.1.0"
+  },
+  "dependencies": {
+    "styled-components": "^1.4.3",
+    "emojione": "^2.2.7"
   },
   "devDependencies": {
     "babel-cli": "^6.9.0",
@@ -31,13 +42,6 @@
     "tape": "^4.5.1",
     "webpack": "^1.13.1"
   },
-  "scripts": {
-    "build": "babel src --out-dir lib",
-    "example": "webpack --config ./example/webpack.config.js",
-    "serve": "node ./example/server.js",
-    "start": "npm run example && npm run serve",
-    "test": "tape test/index.js"
-  },
   "keywords": [
     "react",
     "react-component",
@@ -47,8 +51,5 @@
     "react-emoji-picker",
     "react-emoji",
     "emoji"
-  ],
-  "dependencies": {
-    "styled-components": "^1.4.3"
-  }
+  ]
 }

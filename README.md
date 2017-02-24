@@ -2,12 +2,21 @@
 
 [![npm version](https://badge.fury.io/js/react-emojipicker.svg)](https://badge.fury.io/js/react-emojipicker)
 
-![](https://raw.githubusercontent.com/StevenIseki/react-emojipicker/master/example/screenshot.gif)
+![](https://raw.githubusercontent.com/StevenIseki/react-emojipicker/master/example/screenshot.png)
 
 react-emojipicker is a simple emoji picker component
 
-**TODO:**
-Note that currently this emoji picker only sends the unicode emoji character back at this stage. Still in progress is passing back the title and possibly a png image in the correctly supported emoji format.
+Uses [emojione](http://emojione.com/) for rendering emojis to images.
+
+An Emoji object is returned in the following format from the picker.
+
+```jsx
+{
+  image: '<img class="emojione" alt="😀" src="https://cdn.jsdelivr.net/emojione..." />',
+  unicode: 😀,
+  shortname: ':grinning:'
+}
+```
 
 ## Install
 
@@ -45,6 +54,17 @@ ReactDOM.render(
 
 #### `onEmojiSelected` (required)
 Handler returns the emoji character selected from the emoji picker.
+
+#### `visible`
+Opacity to show or hide the picker. Defaults to true.
+
+#### `modal`
+If you want the emoji picker to be a modal.
+`true` will set the wrapper as `position: absolute`. Or false whihc is the default will be `position: static`.
+
+visible: React.PropTypes.bool,
+modal: React.PropTypes.bool
+
 
 ## Styles
 Uses styled-components 💅 for the base styling.
