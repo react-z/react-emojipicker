@@ -56,25 +56,24 @@ ReactDOM.render(
 Handler returns the emoji character selected from the emoji picker.
 
 #### `visible`
-Opacity to show or hide the picker. Defaults to true.
+Opacity to show or hide the picker. Defaults to `true`.
 
 #### `modal`
 If you want the emoji picker to be a modal.
-`true` will set the wrapper as `position: absolute`. Or false whihc is the default will be `position: static`.
-
-visible: React.PropTypes.bool,
-modal: React.PropTypes.bool
-
+`true` will set the wrapper as `position: absolute`.
+Or `false`, which is the default will be `position: static`.
 
 ## Styles
 Uses styled-components 💅 for the base styling.
 
 ## Development
 
-    npm install
-    npm run build
-    npm test
-    npm start
+```sh
+npm install
+npm run build
+npm test
+npm start
+```
 
 ## License
 
