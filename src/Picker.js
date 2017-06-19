@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import PropTypes from 'prop-types';
 import styled from 'styled-components'
 import emojione from 'emojione'
 
@@ -21,9 +22,9 @@ export default class extends Component {
 
   static get propTypes () {
     return {
-      onEmojiSelected: React.PropTypes.func.isRequired,
-      visible: React.PropTypes.bool,
-      modal: React.PropTypes.bool
+      onEmojiSelected: PropTypes.func.isRequired,
+      visible: PropTypes.bool,
+      modal: PropTypes.bool
     }
   }
 

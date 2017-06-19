@@ -17,11 +17,12 @@
   },
   "license": "MIT",
   "peerDependencies": {
-    "react": "^15.1.0"
+    "react": "15.5.4"
   },
   "dependencies": {
-    "styled-components": "^1.4.3",
-    "emojione": "^2.2.7"
+    "emojione": "^2.2.7",
+    "prop-types": "^15.5.10",
+    "styled-components": "^1.4.3"
   },
   "devDependencies": {
     "babel-cli": "^6.9.0",
@@ -31,14 +32,14 @@
     "babel-preset-react": "^6.5.0",
     "babel-preset-stage-0": "^6.5.0",
     "babel-register": "^6.9.0",
-    "enzyme": "^2.3.0",
+    "enzyme": "2.8.2",
     "expect": "^1.20.1",
     "express": "^4.13.4",
     "jsdom": "^9.2.1",
     "json-loader": "^0.5.4",
-    "react": "^15.1.0",
-    "react-addons-test-utils": "^15.1.0",
+    "react": "15.5.4",
     "react-dom": "^15.1.0",
+    "react-test-renderer": "^15.6.1",
     "tape": "^4.5.1",
     "webpack": "^1.13.1"
   },
