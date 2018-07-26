@@ -20,8 +20,9 @@
     "react": "^15.1.0"
   },
   "dependencies": {
-    "styled-components": "^1.4.3",
-    "emojione": "^2.2.7"
+    "emojione": "^2.2.7",
+    "prop-types": "^15.6.1",
+    "styled-components": "^1.4.3"
   },
   "devDependencies": {
     "babel-cli": "^6.9.0",
