@@ -67,13 +67,17 @@ Or `false`, which is the default will be `position: static`.
 Uses styled-components 💅 for the base styling.
 
 ## Development
+    yarn
+    npm run dev
 
-```sh
-npm install
-npm run build
-npm test
-npm start
-```
+## Build
+    yarn
+    npm run build
+    npm login
+    npm version patch
+    git add -A
+    git push origin master
+    npm publish
 
 ## License
 

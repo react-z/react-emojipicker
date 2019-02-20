@@ -33,7 +33,7 @@ class TestComponent extends Component {
             />
         </div>
         <button onClick={this.toggleVisible.bind(this)}>toggle emoji picker</button>
-        <input type='text' value={enteredText} />
+        <input type='text' defaultValue={enteredText} />
       </div>
     )
   }
