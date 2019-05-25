@@ -1,0 +1,1620 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Picker renders correctly and matches snapshot 1`] = `
+<div
+  className="sc-bdVaJa EXKLM"
+>
+  <div
+    className="sc-bwzfXH HJDRz"
+  >
+    <div
+      className="sc-EHOje kYLUJU"
+    >
+      <p
+        className="sc-bZQynM ewoBzQ"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😀\\" title=\\":grinning:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f600.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        selected={true}
+      />
+      <p
+        className="sc-bZQynM gSJqVG"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🦊\\" title=\\":fox_face:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f98a.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        selected={false}
+      />
+      <p
+        className="sc-bZQynM gSJqVG"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🍏\\" title=\\":green_apple:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f34f.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        selected={false}
+      />
+      <p
+        className="sc-bZQynM gSJqVG"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🚗\\" title=\\":red_car:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f697.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        selected={false}
+      />
+      <p
+        className="sc-bZQynM gSJqVG"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"💎\\" title=\\":gem:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f48e.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        selected={false}
+      />
+      <p
+        className="sc-bZQynM gSJqVG"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"❤️\\" title=\\":heart:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/2764.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        selected={false}
+      />
+    </div>
+    <div
+      className="sc-bxivhb cVsylS"
+    >
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😀\\" title=\\":grinning:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f600.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😃\\" title=\\":smiley:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f603.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😄\\" title=\\":smile:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f604.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😁\\" title=\\":grin:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f601.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😆\\" title=\\":satisfied:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f606.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😅\\" title=\\":sweat_smile:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f605.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😂\\" title=\\":joy:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f602.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😇\\" title=\\":innocent:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f607.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🤣\\" title=\\":rolling_on_the_floor_laughing:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f923.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"☺️\\" title=\\":relaxed:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/263a.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😊\\" title=\\":blush:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f60a.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🙂\\" title=\\":slightly_smiling_face:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f642.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🙃\\" title=\\":upside_down_face:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f643.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😉\\" title=\\":wink:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f609.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😌\\" title=\\":relieved:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f60c.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😍\\" title=\\":heart_eyes:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f60d.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😘\\" title=\\":kissing_heart:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f618.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😗\\" title=\\":kissing:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f617.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😙\\" title=\\":kissing_smiling_eyes:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f619.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😚\\" title=\\":kissing_closed_eyes:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f61a.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😋\\" title=\\":yum:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f60b.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😜\\" title=\\":stuck_out_tongue_winking_eye:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f61c.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😝\\" title=\\":stuck_out_tongue_closed_eyes:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f61d.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😛\\" title=\\":stuck_out_tongue:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f61b.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🤑\\" title=\\":money_mouth_face:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f911.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🤗\\" title=\\":hugging_face:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f917.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🤓\\" title=\\":nerd_face:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f913.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😎\\" title=\\":sunglasses:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f60e.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🤡\\" title=\\":clown_face:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f921.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🤠\\" title=\\":face_with_cowboy_hat:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f920.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😏\\" title=\\":smirk:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f60f.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😒\\" title=\\":unamused:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f612.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😞\\" title=\\":disappointed:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f61e.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😔\\" title=\\":pensive:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f614.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😟\\" title=\\":worried:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f61f.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😕\\" title=\\":confused:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f615.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🙁\\" title=\\":slightly_frowning_face:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f641.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"☹️\\" title=\\":white_frowning_face:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/2639.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😣\\" title=\\":persevere:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f623.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😖\\" title=\\":confounded:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f616.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😫\\" title=\\":tired_face:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f62b.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😩\\" title=\\":weary:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f629.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😤\\" title=\\":triumph:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f624.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😠\\" title=\\":angry:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f620.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😡\\" title=\\":rage:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f621.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😶\\" title=\\":no_mouth:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f636.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😐\\" title=\\":neutral_face:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f610.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😑\\" title=\\":expressionless:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f611.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😯\\" title=\\":hushed:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f62f.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😦\\" title=\\":frowning:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f626.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😧\\" title=\\":anguished:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f627.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😮\\" title=\\":open_mouth:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f62e.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😲\\" title=\\":astonished:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f632.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😵\\" title=\\":dizzy_face:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f635.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😳\\" title=\\":flushed:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f633.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😱\\" title=\\":scream:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f631.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😨\\" title=\\":fearful:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f628.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😰\\" title=\\":cold_sweat:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f630.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😢\\" title=\\":cry:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f622.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😥\\" title=\\":disappointed_relieved:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f625.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🤤\\" title=\\":drool:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f924.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😭\\" title=\\":sob:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f62d.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😓\\" title=\\":sweat:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f613.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😪\\" title=\\":sleepy:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f62a.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😴\\" title=\\":sleeping:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f634.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🙄\\" title=\\":face_with_rolling_eyes:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f644.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🤔\\" title=\\":thinking_face:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f914.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🤥\\" title=\\":liar:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f925.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😬\\" title=\\":grimacing:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f62c.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🤐\\" title=\\":zipper_mouth_face:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f910.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🤢\\" title=\\":sick:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f922.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🤧\\" title=\\":sneeze:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f927.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😷\\" title=\\":mask:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f637.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🤒\\" title=\\":face_with_thermometer:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f912.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🤕\\" title=\\":face_with_head_bandage:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f915.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😈\\" title=\\":smiling_imp:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f608.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👿\\" title=\\":imp:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f47f.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👹\\" title=\\":japanese_ogre:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f479.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👺\\" title=\\":japanese_goblin:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f47a.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"💩\\" title=\\":poo:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f4a9.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👻\\" title=\\":ghost:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f47b.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"💀\\" title=\\":skeleton:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f480.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"☠️\\" title=\\":skull_and_crossbones:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/2620.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👽\\" title=\\":alien:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f47d.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👾\\" title=\\":space_invader:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f47e.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🤖\\" title=\\":robot_face:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f916.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🎃\\" title=\\":jack_o_lantern:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f383.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😺\\" title=\\":smiley_cat:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f63a.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😸\\" title=\\":smile_cat:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f638.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😹\\" title=\\":joy_cat:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f639.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😻\\" title=\\":heart_eyes_cat:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f63b.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😼\\" title=\\":smirk_cat:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f63c.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😽\\" title=\\":kissing_cat:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f63d.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🙀\\" title=\\":scream_cat:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f640.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😿\\" title=\\":crying_cat_face:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f63f.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"😾\\" title=\\":pouting_cat:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f63e.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👐\\" title=\\":open_hands:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f450.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🙌\\" title=\\":raised_hands:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f64c.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👏\\" title=\\":clap:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f44f.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🙏\\" title=\\":pray:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f64f.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🤝\\" title=\\":shaking_hands:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f91d.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👍\\" title=\\":thumbup:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f44d.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👎\\" title=\\":thumbdown:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f44e.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👊\\" title=\\":punch:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f44a.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"✊\\" title=\\":fist:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/270a.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🤛\\" title=\\":left_fist:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f91b.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🤜\\" title=\\":right_fist:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f91c.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🤞\\" title=\\":hand_with_index_and_middle_finger_crossed:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f91e.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"✌️\\" title=\\":v:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/270c.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🤘\\" title=\\":sign_of_the_horns:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f918.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👌\\" title=\\":ok_hand:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f44c.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👈\\" title=\\":point_left:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f448.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👉\\" title=\\":point_right:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f449.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👆\\" title=\\":point_up_2:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f446.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👇\\" title=\\":point_down:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f447.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"☝️\\" title=\\":point_up:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/261d.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"✋\\" title=\\":raised_hand:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/270b.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🤚\\" title=\\":back_of_hand:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f91a.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🖐\\" title=\\":raised_hand_with_fingers_splayed:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f590.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🖖\\" title=\\":raised_hand_with_part_between_middle_and_ring_fingers:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f596.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👋\\" title=\\":wave:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f44b.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🤙\\" title=\\":call_me_hand:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f919.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"💪\\" title=\\":muscle:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f4aa.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🖕\\" title=\\":reversed_hand_with_middle_finger_extended:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f595.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"✍️\\" title=\\":writing_hand:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/270d.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🤳\\" title=\\":selfie:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f933.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"💅\\" title=\\":nail_care:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f485.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🖖\\" title=\\":raised_hand_with_part_between_middle_and_ring_fingers:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f596.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"💄\\" title=\\":lipstick:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f484.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"💋\\" title=\\":kiss:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f48b.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👄\\" title=\\":lips:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f444.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👅\\" title=\\":tongue:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f445.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👂\\" title=\\":ear:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f442.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👃\\" title=\\":nose:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f443.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👣\\" title=\\":footprints:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f463.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👁\\" title=\\":eye:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f441.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👀\\" title=\\":eyes:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f440.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👗\\" title=\\":dress:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f457.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👠\\" title=\\":high_heel:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f460.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👞\\" title=\\":mans_shoe:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f45e.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👟\\" title=\\":athletic_shoe:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f45f.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👒\\" title=\\":womans_hat:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f452.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🎩\\" title=\\":tophat:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f3a9.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🎓\\" title=\\":mortar_board:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f393.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👑\\" title=\\":crown:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f451.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"⛑\\" title=\\":helmet_with_white_cross:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/26d1.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🎒\\" title=\\":school_satchel:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f392.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👝\\" title=\\":pouch:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f45d.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👛\\" title=\\":purse:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f45b.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👜\\" title=\\":handbag:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f45c.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"💼\\" title=\\":briefcase:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f4bc.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"👓\\" title=\\":eyeglasses:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f453.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"🕶\\" title=\\":dark_sunglasses:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/1f576.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+      <span
+        className="ld-emoji sc-ifAKCX dAzeyo"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<img class=\\"emojione\\" alt=\\"☂️\\" title=\\":umbrella2:\\" src=\\"https://cdn.jsdelivr.net/emojione/assets/png/2602.png?v=2.2.7\\"/>",
+          }
+        }
+        onClick={[Function]}
+        role="presentation"
+      />
+    </div>
+  </div>
+</div>
+`;
